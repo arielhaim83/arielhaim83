@@ -1,7 +1,9 @@
 ### Knowledge Resources
  - System design https://github.com/donnemartin/system-design-primer
  - Dapr implementation https://github.com/dotnet-architecture/eShopOnDapr
+ - Dapr with Tye project https://github.com/thangchung/practical-dapr
  - Developer roadmap https://github.com/kamranahmedse/developer-roadmap
+ - .Net Core resources https://github.com/thangchung/awesome-dotnet-core
 
 <!--
 **arielhaim83/arielhaim83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
